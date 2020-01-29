@@ -4,7 +4,7 @@
 https://atikrhaman.github.io/hexa-color-genarator-2/.
 
 ## Technoloy used
-Pure javaScript, DOM, SCSS, HTML
+JavaScript, DOM, SCSS, HTML
 
 ## Author
 Atikur Rahman
