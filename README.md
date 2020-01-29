@@ -1,9 +1,7 @@
 # hexa-color-genarator
 
-https://atikrhaman.github.io/hexa-color-genarator-2/.
-
 ## Demo
-https://atikrhaman.github.io/world-of-countries/.
+https://atikrhaman.github.io/hexa-color-genarator-2/.
 
 ## Technoloy used
 Pure javaScript, DOM, SCSS, HTML
@@ -12,6 +10,7 @@ Pure javaScript, DOM, SCSS, HTML
 Atikur Rahman
 
 ## License
+MIT
 
 ## Acknowledgements
 Everyone at Integrify, especially my teacher and classmates.
